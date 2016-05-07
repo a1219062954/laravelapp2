@@ -22,8 +22,6 @@ Route::get('/hello', function()
 {
   return "hi user!";
 });
-
-aaaaa
 /*
 |--------------------------------------------------------------------------
 | Application Routes
