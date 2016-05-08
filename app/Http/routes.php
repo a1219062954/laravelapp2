@@ -14,10 +14,7 @@
 Route::get('/', function () {
     return view('welcome');
 });
-Route::get('user', function()
-{
-  return "hi user!";
-});
+
 Route::get('/hello', function()
 {
   return "hi user!";
